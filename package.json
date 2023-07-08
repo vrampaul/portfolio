@@ -13,10 +13,10 @@
   "author": "Scot Renz",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^4.9.2"
+    "node-sass": "^9.0.0"
   },
   "dependencies": {
     "jquery": "^3.3.1",
-    "npm": "^6.2.0"
+    "npm": "^9.8.0"
   }
 }
